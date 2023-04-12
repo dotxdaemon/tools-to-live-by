@@ -1,3 +1,4 @@
+#!/usr/bin/python
 age = float(input("What is your current age?\n"))
 death = int(input("At what age do you think you will die?\n"))
 
