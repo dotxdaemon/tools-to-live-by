@@ -12,8 +12,8 @@ IP SWEEP
 
 Ping active hosts on your network
 
-if zsh
+if zsh  
 $ bash ipsweep.sh
 
-if bash
+if bash  
 $ ./ipsweep.sh
