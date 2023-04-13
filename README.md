@@ -17,3 +17,10 @@ $ bash ipsweep.sh
 
 if bash  
 $ ./ipsweep.sh
+
+AI RPS GAME
+============
+
+Will you escape the Matrix? Will AGI dominate? The future of humanity is in your hands!  
+
+$ python3 AI\ RPS\ Game.py
